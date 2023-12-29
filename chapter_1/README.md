@@ -49,8 +49,3 @@ you to learn if you follow along with us.
         # print the version of Jupyter 
         python -c "import 
         ```
-
-
-1. First list item
-   - First nested list item
-     - Second nested list item
