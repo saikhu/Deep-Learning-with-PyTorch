@@ -1,5 +1,6 @@
-# vscode workspace
 
+*.DS_Store
+# vscode workspace
 *.code-workspace
 
 
